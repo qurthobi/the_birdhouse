@@ -1,10 +1,3 @@
-// === transmitter_proposed_no_tflm_auto_channel.ino ===
-// Board A: XIAO ESP32S3 Sense + Grove sensors + SD + Wio-E5 LoRa + analog mic + Camera
-//
-// GitHub-safe version:
-// - No real LoRa AppKey
-// - No real ESP-NOW receiver MAC address
-//
 // Before flashing:
 // 1. Replace RECEIVER_MAC with your receiver board MAC address
 // 2. Replace LORA_APPKEY with your own LoRaWAN AppKey
